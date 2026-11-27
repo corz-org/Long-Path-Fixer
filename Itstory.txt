@@ -1,0 +1,111 @@
+
+     #####    ###     ##  ### ########             ###     ##  ###    ###TM
+   #######  #######   ####### ########           #######   #######  #######
+  ###      ###   ###  ###         ###           ###   ###  ###     ###   ##
+  ###      ###   ###  ##       ###              ###   ###  ##      ###   ##
+   #######  #######   ##      ########    ###    #######   ##        ######
+     #####    ###     ##      ########    ###      ###     ##           ###
+                                                                     #####
+
+  Long Path Fixer
+  A simple utility for working with Very Long Paths.
+
+  https://corz.org/windows/software/accessories/Long-Path-Fixer-for-Windows.php
+
+  (c) corz.org
+
+
+  itstory.. aka 'version history'.. aka 'changes'..
+  [known bugs at the bottom]
+
+        * Fixes
+        ~ Changes
+        + New stuff
+
+
+  1.0.0
+
+    + Progress Bar.
+    
+      Yes, you asked for it! You got it. This only applies to folders, 
+      obviously and covers all folder operations.
+      
+      File copies now post a message in the title, so you know what's happening.
+        
+    + Single-click operation.
+    
+      There's an option in the tray and list context menu for this.
+      
+    ~ Right-clicking an item now selects it so context menu items work on the 
+      newly right-clicked item, not the old one. This was essential for right-
+      click operation.
+    
+    + You can now type/paste a path directly into the drive combo/dropdown (and
+      hit Enter) and Long Path Fixer will open its list at that location.
+
+    + Added Refresh to the context (right-click) menu. 
+      It does the same as F5 always did.
+
+    ~ Long Path Fixer now opens in the drive root if your previously used
+      folder no longer exists.
+
+    * Fixed the context menu action on the top ".." item, there now isn't any!
+
+
+    ~ Many minor bug fixes and code clean-ups.
+
+
+
+
+  0.9.0.0 [current release]
+
+
+    +   Added Rename option.
+
+    +   You can now disable the Delete confirmations, if required (in the System
+        Tray menu).
+
+    +   Added Hotkeys for Delete (Del key) and Rename (F2).
+
+    +   Added some guidance on what to do if a recycle operation fails..
+
+         (Recycling items can fail if the file name is too long, so either do a
+          full delete, or first rename the file to something shorter)
+
+    +   Added option to delete to recycle bin. By default, you have two options,
+        "Delete" and "Delete To Recycle Bin", and you can choose between them.
+        You can also set in your preferences..
+
+            delete_to_recycle_bin=true
+
+        in which case you will have only "Delete", and everything will go in the
+        recycle bin automatically.
+
+        This preference can be set from Long Path Fixer's System Tray Menu.
+
+    *   Fixed an issue where double-clicking the list when nothing was selected
+        would throw up two notifications.
+
+
+        That's all the planned features in now!
+
+
+
+  0.8.7.0 [initial release]
+
+        First official release.
+
+
+
+
+
+
+
+  ..
+
+    current bugs and foibles:
+
+    These bugs are know, but for one reason or another (perhaps waiting for
+    something else to happen first) they will not be fixed just yet..
+
+    No known bugs.
