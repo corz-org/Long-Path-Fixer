@@ -32,11 +32,11 @@
 </div>
 <h2>How does it work?
 </h2>
-<p><img src="https://corz.org/windows/software/accessories/img/Long-Path-Fixer-Window-C-Drive.webp" alt="Image of Long Path Fixer showing the contents of my C Drive"/>Long Path Fixer presents you with a simple list of files and folders in the current directory (including "hidden" files and folders). You can drag and drop files or folders onto it and it will navigate directly to path of whatever you dropped.
+<p><img src="https://corz.org/windows/software/accessories/img/Long-Path-Fixer-Window-C-Drive.webp" alt="Image of Long Path Fixer showing the contents of my C Drive"/><br/><br/>Long Path Fixer presents you with a simple list of files and folders in the current directory (including "hidden" files and folders). You can drag and drop files or folders onto it and it will navigate directly to path of whatever you dropped.
 </p>
 <p>From there, you simply click on the file or folder you want to move, copy, delete, and hit the appropriate button; Move, Copy or Delete. All these options are also available from the context (right-click) menu, as well as rename (I may add a button for that!), delete to recycle bin, copy the path and so on.
 </p>
-<p><img src="https://corz.org/windows/software/accessories/img/Long-Path-Fixer-Window-List-Context-Menu-Bigger.webp" alt="Image of Long Path Fixer context menu showing open and unlock options"/>Just like Explorer windows, <strong>F5</strong> refreshes the list.
+<p><img src="https://corz.org/windows/software/accessories/img/Long-Path-Fixer-Window-List-Context-Menu-Bigger.webp" alt="Image of Long Path Fixer context menu showing open and unlock options"/><br/><br/>Just like Explorer windows, <strong>F5</strong> refreshes the list.
 </p>
 <p>The top item "&#9679;&#9679;" enables you to go UP, as if you hadn't guessed!
 </p>
@@ -48,7 +48,7 @@
 </p>
 <p>Alternatively, you can keep a shortcut in your SendTo menu, and send items from there. Or even drag and drop items directly onto Long Path Fixer, or a shortcut to it. If you send <em>files</em>, Long Path Fixer will open at the parent folder.
 </p>
-<p><img src="https://corz.org/windows/software/accessories/img/Progress_bar.webp" alt="Yes! There is now a progress bar!"/>If you launch Long Path Fixer with no path on the command line (by clicking it directly), Long Path Fixer will remember your previous folder and start there, same goes for whatever destination folder you last chose to copy/move an item to - that's where the dialog will open next time around. Anything to save a few precious seconds!
+<p><img src="https://corz.org/windows/software/accessories/img/Progress_bar.webp" alt="Yes! There is now a progress bar!"/><br/><br/>If you launch Long Path Fixer with no path on the command line (by clicking it directly), Long Path Fixer will remember your previous folder and start there, same goes for whatever destination folder you last chose to copy/move an item to - that's where the dialog will open next time around. Anything to save a few precious seconds!
 </p>
 <p>On the subject of time-saving, if Long Path Fixer if buried beneath some windows on your desktop, hovering over its tray menu will jump it immediately to the front. There is also an option to stay on top, if you prefer.
 </p>
